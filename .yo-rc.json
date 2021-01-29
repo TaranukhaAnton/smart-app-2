@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.smart.academy"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "monolith",
+    "baseName": "SmartApp",
+    "packageName": "com.smart.academy",
+    "packageFolder": "com/smart/academy",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YTZlN2YyNTVlNGQyN2RlMTY4YzdhZDJmNmJiODY2MGQzOTIyM2JjMzlmZGM0NmZmMmFmNGIwZTc1N2VlYjk4NjVjOTZhZDAyOTk0NGM3ZTFmMzEyNDhhNWQwMTY5YzI3NDgzZjJhZDgwMzliYjQ1Mjc2M2UxN2UwZDRhY2UzNDg=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1611940354654,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
