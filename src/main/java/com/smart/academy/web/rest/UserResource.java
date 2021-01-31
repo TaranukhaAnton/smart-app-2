@@ -13,9 +13,9 @@ import com.smart.academy.web.rest.errors.BadRequestAlertException;
 import com.smart.academy.web.rest.errors.EmailAlreadyUsedException;
 import com.smart.academy.web.rest.errors.LoginAlreadyUsedException;
 
-import io.github.jhipster.web.util.HeaderUtil;
-import io.github.jhipster.web.util.PaginationUtil;
-import io.github.jhipster.web.util.ResponseUtil;
+import com.smart.academy.util.HeaderUtil;
+import com.smart.academy.util.PaginationUtil;
+import com.smart.academy.util.ResponseUtil;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
